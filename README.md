@@ -1,2 +1,2 @@
-# my-cdn-scripts
+# ADABAYAR MOBILE
 Fetch Everluck Pricelist
